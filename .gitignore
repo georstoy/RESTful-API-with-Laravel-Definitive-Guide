@@ -8,3 +8,5 @@
 Homestead.json
 .env
 *.sublime-*
+*.lock
+Homestead.yaml
