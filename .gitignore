@@ -10,3 +10,4 @@ Homestead.json
 *.sublime-*
 *.lock
 Homestead.yaml
+.sudo_as_admin_successful
