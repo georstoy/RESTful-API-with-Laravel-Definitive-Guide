@@ -152,7 +152,7 @@ class UserController extends ApiController
 
         $user->save();
 
-        return $this->showMessage('The account has been verified succesfully');
+        return $this->showMessage('The account has been verified successfully');
     }
 
     public function resend(User $user)
